@@ -1,2 +1,2 @@
 # -App-de-pintura-de-pixeles-
-En este repositorio voy a subirr un proyecto generador de pixel art con javascript, también puede llamarlo aplicación de pintura de píxeles. 
+En este repositorio voy a subirr un proyecto generador de pixel art con javascript, también puede llamarlo aplicación de pintura de píxeles. Esta app la hice gracias a un desafio de youtube que se llama "100 días de codificación JavaScript". Cuando baje el repositorio, verifique cambiar las rutas. Ademas, dentro del codigo javascript agregue unos comentarios para el codigo sea mas legible.
